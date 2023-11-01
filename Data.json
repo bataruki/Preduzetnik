@@ -6,12 +6,6 @@
         {
           "m_reports": [
             {
-              "m_date": "2023-11-01",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 3.0,
-              "m_workingHours": 8.0
-            },
-            {
               "m_date": "2023-10-27",
               "m_expenses": 17.094017,
               "m_hourlyRate": 3.0,
@@ -34,12 +28,6 @@
         },
         {
           "m_reports": [
-            {
-              "m_date": "2023-11-01",
-              "m_expenses": 20.0,
-              "m_hourlyRate": 6.5,
-              "m_workingHours": 8.0
-            },
             {
               "m_date": "2023-10-27",
               "m_expenses": 50.0,
@@ -64,12 +52,6 @@
         {
           "m_reports": [
             {
-              "m_date": "2023-11-01",
-              "m_expenses": 16.0,
-              "m_hourlyRate": 7.0,
-              "m_workingHours": 8.0
-            },
-            {
               "m_date": "2023-10-27",
               "m_expenses": 17.094017,
               "m_hourlyRate": 7.0,
@@ -92,12 +74,6 @@
         },
         {
           "m_reports": [
-            {
-              "m_date": "2023-11-01",
-              "m_expenses": 30.0,
-              "m_hourlyRate": 7.0,
-              "m_workingHours": 8.0
-            },
             {
               "m_date": "2023-10-27",
               "m_expenses": 8.5470085,
@@ -145,12 +121,6 @@
         {
           "m_reports": [
             {
-              "m_date": "2023-11-01",
-              "m_expenses": 0.0,
-              "m_hourlyRate": 8.0,
-              "m_workingHours": 8.0
-            },
-            {
               "m_date": "2023-10-27",
               "m_expenses": 0.0,
               "m_hourlyRate": 8.0,
@@ -173,12 +143,6 @@
         },
         {
           "m_reports": [
-            {
-              "m_date": "2023-11-01",
-              "m_expenses": 80.0,
-              "m_hourlyRate": 5.0,
-              "m_workingHours": 8.0
-            },
             {
               "m_date": "2023-10-27",
               "m_expenses": 15.0,
