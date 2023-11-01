@@ -4,185 +4,185 @@
       "m_name": "Obrenovac",
       "m_workers": [
         {
+          "m_name": "Aca Mikic",
           "m_reports": [
             {
               "m_date": "2023-10-27",
-              "m_expenses": 17.094017,
-              "m_hourlyRate": 3.0,
+              "m_expenses": 2000.0,
+              "m_hourlyRate": 351.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
-              "m_expenses": 10.0,
-              "m_hourlyRate": 3.0,
+              "m_expenses": 1170.0,
+              "m_hourlyRate": 351.0,
               "m_workingHours": 0.0
             },
             {
               "m_date": "2023-10-25",
-              "m_expenses": 40.0,
-              "m_hourlyRate": 3.0,
+              "m_expenses": 4680.0,
+              "m_hourlyRate": 351.0,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Aca Mikic"
+          ]
         },
         {
+          "m_name": "Beli",
           "m_reports": [
             {
               "m_date": "2023-11-01",
-              "m_expenses": 30.0,
-              "m_hourlyRate": 6.5,
+              "m_expenses": 3510.0,
+              "m_hourlyRate": 760.5,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-27",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 6.5,
+              "m_expenses": 5850.0,
+              "m_hourlyRate": 760.5,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
-              "m_expenses": 4.0,
-              "m_hourlyRate": 6.5,
+              "m_expenses": 468.0,
+              "m_hourlyRate": 760.5,
               "m_workingHours": 0.0
             },
             {
               "m_date": "2023-10-25",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 6.5,
+              "m_expenses": 5850.0,
+              "m_hourlyRate": 760.5,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Beli"
+          ]
         },
         {
+          "m_name": "Bilac",
           "m_reports": [
             {
               "m_date": "2023-10-27",
-              "m_expenses": 17.094017,
-              "m_hourlyRate": 7.0,
+              "m_expenses": 2000.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
               "m_expenses": 0.0,
-              "m_hourlyRate": 7.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-25",
               "m_expenses": 0.0,
-              "m_hourlyRate": 7.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Bilac"
+          ]
         },
         {
+          "m_name": "Boba",
           "m_reports": [
             {
               "m_date": "2023-10-27",
-              "m_expenses": 8.5470085,
-              "m_hourlyRate": 7.0,
+              "m_expenses": 1000.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
-              "m_expenses": 8.5470085,
-              "m_hourlyRate": 7.0,
+              "m_expenses": 1000.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-25",
-              "m_expenses": 8.5470085,
-              "m_hourlyRate": 7.0,
+              "m_expenses": 1000.0,
+              "m_hourlyRate": 819.0,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Boba"
+          ]
         },
         {
+          "m_name": "Grsa",
           "m_reports": [
             {
               "m_date": "2023-11-02",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 7.5,
+              "m_expenses": 5850.0,
+              "m_hourlyRate": 877.5,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-27",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 7.5,
+              "m_expenses": 5850.0,
+              "m_hourlyRate": 877.5,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
-              "m_expenses": 50.0,
-              "m_hourlyRate": 7.5,
+              "m_expenses": 5850.0,
+              "m_hourlyRate": 877.5,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-25",
-              "m_expenses": 100.0,
-              "m_hourlyRate": 7.5,
+              "m_expenses": 11700.0,
+              "m_hourlyRate": 877.5,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Grsa"
+          ]
         },
         {
+          "m_name": "Jovan",
           "m_reports": [
             {
               "m_date": "2023-10-27",
               "m_expenses": 0.0,
-              "m_hourlyRate": 8.0,
+              "m_hourlyRate": 936.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
               "m_expenses": 0.0,
-              "m_hourlyRate": 8.0,
+              "m_hourlyRate": 936.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-25",
               "m_expenses": 0.0,
-              "m_hourlyRate": 8.0,
+              "m_hourlyRate": 936.0,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Jovan"
+          ]
         },
         {
+          "m_name": "Luka",
           "m_reports": [
             {
               "m_date": "2023-10-27",
-              "m_expenses": 15.0,
-              "m_hourlyRate": 5.0,
+              "m_expenses": 1755.0,
+              "m_hourlyRate": 585.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-26",
-              "m_expenses": 42.735046,
-              "m_hourlyRate": 5.0,
+              "m_expenses": 5000.0,
+              "m_hourlyRate": 585.0,
               "m_workingHours": 8.0
             },
             {
               "m_date": "2023-10-25",
-              "m_expenses": 68.37607,
-              "m_hourlyRate": 5.0,
+              "m_expenses": 8000.0,
+              "m_hourlyRate": 585.0,
               "m_workingHours": 8.0
             }
-          ],
-          "m_name": "Luka"
+          ]
         },
         {
-          "m_reports": [],
-          "m_name": "Rus"
+          "m_name": "Rus",
+          "m_reports": []
         },
         {
-          "m_reports": [],
-          "m_name": "Zule"
+          "m_name": "Zule",
+          "m_reports": []
         }
       ]
     },
@@ -190,23 +190,23 @@
       "m_name": "Kopaonik",
       "m_workers": [
         {
-          "m_reports": [],
-          "m_name": "Beli Matori"
+          "m_name": "Beli Matori",
+          "m_reports": []
         },
         {
-          "m_reports": [],
-          "m_name": "Biber"
+          "m_name": "Biber",
+          "m_reports": []
         },
         {
-          "m_reports": [],
-          "m_name": "Burdus"
+          "m_name": "Burdus",
+          "m_reports": []
         },
         {
-          "m_reports": [],
-          "m_name": "Mindja"
+          "m_name": "Mindja",
+          "m_reports": []
         }
       ]
     }
   ],
-  Version: 0
+  "Version": 1
 }
