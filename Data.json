@@ -58,6 +58,12 @@
         {
           "m_reports": [
             {
+              "m_date": "2023-11-01",
+              "m_expenses": 16.0,
+              "m_hourlyRate": 7.0,
+              "m_workingHours": 8.0
+            },
+            {
               "m_date": "2023-10-27",
               "m_expenses": 17.094017,
               "m_hourlyRate": 7.0,
@@ -126,6 +132,12 @@
         },
         {
           "m_reports": [
+            {
+              "m_date": "2023-11-01",
+              "m_expenses": 0.0,
+              "m_hourlyRate": 8.0,
+              "m_workingHours": 8.0
+            },
             {
               "m_date": "2023-10-27",
               "m_expenses": 0.0,
