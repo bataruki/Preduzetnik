@@ -134,6 +134,12 @@
           "m_name": "Jovan",
           "m_reports": [
             {
+              "m_date": "2023-11-01",
+              "m_expenses": 0.0,
+              "m_hourlyRate": 936.0,
+              "m_workingHours": 8.0
+            },
+            {
               "m_date": "2023-10-27",
               "m_expenses": 0.0,
               "m_hourlyRate": 936.0,
@@ -208,5 +214,5 @@
       ]
     }
   ],
-  "Version": 1
+  "Version": 2
 }
