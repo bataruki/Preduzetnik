@@ -1,5 +1,5 @@
 {
   "m_isCurrencyEUR": false,
-  "m_restricted": false,
-  "Version": 9
+  "m_restricted": true,
+  "Version": 10
 }
