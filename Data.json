@@ -189,10 +189,6 @@
           ]
         },
         {
-          "m_name": "Rus",
-          "m_reports": []
-        },
-        {
           "m_name": "Zule",
           "m_reports": []
         }
@@ -220,5 +216,5 @@
       ]
     }
   ],
-  "Version": 17
+  "Version": 18
 }
