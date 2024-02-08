@@ -193,10 +193,6 @@
               "m_workingHours": 8.0
             }
           ]
-        },
-        {
-          "m_name": "Zule",
-          "m_reports": []
         }
       ]
     },
@@ -222,5 +218,5 @@
       ]
     }
   ],
-  "Version": 22
+  "Version": 23
 }
