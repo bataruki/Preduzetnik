@@ -175,6 +175,12 @@
           "m_name": "Luka",
           "m_reports": [
             {
+              "m_date": "2024-02-08",
+              "m_expenses": 10.0,
+              "m_hourlyRate": 5.0,
+              "m_workingHours": 10.0
+            },
+            {
               "m_date": "2023-10-27",
               "m_expenses": 15.0,
               "m_hourlyRate": 5.0,
@@ -222,5 +228,5 @@
       ]
     }
   ],
-  "Version": 25
+  "Version": 26
 }
