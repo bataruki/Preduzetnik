@@ -176,7 +176,7 @@
           "m_reports": [
             {
               "m_date": "2024-02-08",
-              "m_expenses": 10.0,
+              "m_expenses": 60.0,
               "m_hourlyRate": 5.0,
               "m_workingHours": 10.0
             },
@@ -228,5 +228,5 @@
       ]
     }
   ],
-  "Version": 26
+  "Version": 27
 }
